@@ -38,11 +38,11 @@ The `name` parameter value overrides the default value of "World" and is reflect
 
 
 == What you'll need
-:JDK 1.8 or later
-:Gradle 4+ or Maven 3.2+
-:You can also import the code straight into your IDE:
-:Spring Tool Suite (STS)
-:IntelliJ IDEA
+- JDK 1.8 or later
+- Gradle 4+ or Maven 3.2+
+- You can also import the code straight into your IDE:
+- Spring Tool Suite (STS)
+- IntelliJ IDEA
 
 [[initial]]
 == Create a resource representation class
